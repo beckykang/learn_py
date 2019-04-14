@@ -11,6 +11,7 @@ mean_c = uf.mean(curved)
 
 print("Scores:", scores)
 print("Original Mean:", mean, " New Mean:", mean_c)
+print("add messgage from local machine")
 
 print(__name__)
 print(uf.__name__)
